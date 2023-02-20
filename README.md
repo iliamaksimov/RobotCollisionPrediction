@@ -12,7 +12,7 @@ A Neural Network that helps a small robot navigate a simulated environment witho
 
 ## Instructions
 
-### Python and packages
+### Python and Packages
 * Python 3.7
 * cython 0.29.32
 * matplotlib 3.5.3
@@ -24,7 +24,8 @@ A Neural Network that helps a small robot navigate a simulated environment witho
 * numpy 1.21.5
 * noise 1.2.2
 
-### Usage
+### Usage and Key Files description
 * Run goal_seeking.py to start the simulation
 * Networks.py contains the NN architecture 
 * train_model.py is used for actually training the NN
+* Data_Loaders.py contains PyTorch classes implementing train and test dataset iterables
