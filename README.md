@@ -24,7 +24,7 @@ A Neural Network that helps a small robot navigate a simulated environment witho
 * numpy 1.21.5
 * noise 1.2.2
 
-### Usage and Key Files description
+### Usage and File description
 * Run goal_seeking.py to start the simulation
 * Networks.py contains the NN architecture 
 * train_model.py is used for actually training the NN
